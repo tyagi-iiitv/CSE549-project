@@ -23,3 +23,6 @@ The goal here is to determine what are the specific properties, if any, of the t
 - Property values + A Quality Measurement of that property
 ### Midway result
 - Filter the faulty transcripts and provide some statistics regarding their properties
+
+### A useful resource for understanding Bootstrapping and Confidence Intervals
+https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading24.pdf
